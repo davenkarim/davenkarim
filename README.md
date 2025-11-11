@@ -33,8 +33,9 @@
 
 Here are some highlights from my journey:
 
-- 🍽️ **[ADA Canteen](https://github.com/davenkarim/)** – SwiftUI offline-first app for managing menus & tenants at campus canteen (Apple Developer Academy)
-- ✨ **[Female Daily x Jakarta X Beauty (JxB) Navigation](https://github.com/davenkarim/)** – iOS solution with MapKit, SwiftData, and CloudKit to improve large-scale event navigation & flash sale experience
+- 🗑️ **[Bin-Go](https://github.com/davenkarim/Bin-Go)** - A Machine Learning Project to answer user's problem regarding waste classification
+- 🍽️ **[ADA Kantin](https://github.com/davenkarim/ADAKantin)** – SwiftUI offline-first app for managing menus & tenants at GOP 9's canteen with Siri Shortcut to help users decide on what to eat without having to navigate their phones
+- ✨ **[Female Daily x Jakarta X Beauty (JxB) Navigation](https://github.com/handoyonathan/FemaleDaily)** – iOS solution with MapKit, SwiftData, and CloudKit to improve large-scale event navigation & flash sale experience in the JxB 2025 Event
 
 ---
 
@@ -62,6 +63,9 @@ Here are some highlights from my journey:
   </a>
   <a href="https://instagram.com/davenkarim" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@davenkarim" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tiktok.png" alt="TikTok" />
   </a>
 </p>
 

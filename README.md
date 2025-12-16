@@ -1,45 +1,96 @@
-# Daven Karim | Hi there! 👋
+# Daven Karim 👋
 
-<h3 align="center">iOS Developer | Bridging Tech & Real-World Impact</h3>
+<h3 align="center">Product-Oriented Builder | AI & User-Centered Solutions</h3>
 
 <p align="center">
-  <em>Information Systems student at Bina Nusantara University 🇮🇩 and iOS Engineer at Apple Developer Academy @BINUS. Passionate about crafting mobile experiences, integrating AI/ML into everyday solutions, and exploring how technology can empower people in meaningful ways.</em>
+  <img src="https://komarev.com/ghpvc/?username=davenkarim&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <em>
+    Information Systems (Business Intelligence) graduate from Bina Nusantara University 🇮🇩 <br/>
+    Alumni of Apple Developer Academy @BINUS. <br/>
+    Focused on building meaningful digital products through strong user understanding, 
+    research-driven decisions, and thoughtful use of technology.
+  </em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing **Information Systems (Business Intelligence)** at **Bina Nusantara University**
-- 📱 Building iOS apps at **Apple Developer Academy @BINUS**, focusing on real-world case studies & user experience
-- 🧠 **Interests**: iOS Development (SwiftUI, UIKit, MVVM), AI/ML (LLMs, CoreML), Business Intelligence & Data Analytics
-- 🔭 Projects I've worked on range from campus canteen apps to large-scale event navigation (Jakarta X Beauty)
-- 🎯 **Career Aspiration**: Deliver impactful solutions by combining AI-powered tools and seamless mobile products
+- 🎓 **Information Systems (Business Intelligence)** — *Bina Nusantara University*
+- 🍎 **Alumni** of **Apple Developer Academy @BINUS**
+- 🧠 Background in iOS development, now transitioning fully into **Product & User-Focused Roles**
+- 🔍 Strong interest in **Product Management, User Research, and AI-powered solutions**
+- 📊 Comfortable working with **data, insights, and qualitative + quantitative research**
+- 🎯 **Career Direction**: Product roles where user needs, business goals, and technology intersect
+
+I don’t aim to just “build features” —  
+I aim to **solve the right problems, for the right users, with the right solutions**.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧠 Research & Publications
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-</p>
+My academic background strengthens how I approach product decisions and problem framing:
 
----
+- 📄 **Investigating the Impact of AI-Powered Tools on Academic Activities: A Quantitative Study of University Students in Jakarta and Tangerang**  
+  *IEEE Conference Paper — Scopus Indexed*
 
-## 💻 Featured Projects
-
-Here are some highlights from my journey:
-
-- 🗑️ **[Bin-Go](https://github.com/davenkarim/Bin-Go)** - A Machine Learning Project to answer user's problem regarding waste classification
-- 🍽️ **[ADA Kantin](https://github.com/davenkarim/ADAKantin)** – SwiftUI offline-first app for managing menus & tenants at GOP 9's canteen with Siri Shortcut to help users decide on what to eat without having to navigate their phones
-- ✨ **[Female Daily x Jakarta X Beauty (JxB) Navigation](https://github.com/handoyonathan/FemaleDaily)** – iOS solution with MapKit, SwiftData, and CloudKit to improve large-scale event navigation & flash sale experience in the JxB 2025 Event
+This research reflects my ability to:
+- Analyze real user behavior at scale
+- Translate data into actionable insights
+- Think critically about AI adoption and its real-world implications
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Core Skills & Tools
+
+**Product & Strategy**
+- Product discovery & problem framing
+- User research (interviews, surveys, synthesis)
+- Metrics-driven thinking & validation
+- Stakeholder communication
+
+**Technology Awareness**
+- iOS (SwiftUI, UIKit) — *implementation background*
+- AI-powered tools & LLM-based products
+- Data analysis & business intelligence fundamentals
+
+> I leverage technology as a **tool**, not an end goal.
+
+---
+
+## 💻 Selected Projects
+
+Some projects that represent my growth and direction:
+
+- 🎨 **Tona — Foundation Shade Matching App**  
+  Final project at Apple Developer Academy @BINUS.  
+  A mobile app that helps users find their best foundation or cushion shade using skin tone analysis, user inputs, and product matching logic.  
+  *(Private repository — case study available on portfolio)*
+
+- 🌊 **Coco.co — Snorkeling Trip Discovery Platform**  
+  A product exploration project focused on user acquisition and travel planning behavior, designed around distinct traveler personas.  
+  *(Private repository — case study available on portfolio)*
+
+- 🗑️ **[Bin-Go](https://github.com/davenkarim/Bin-Go)**  
+  Machine learning–based app to help users classify waste correctly and improve recycling awareness.
+
+- 🍽️ **[ADA Kantin](https://github.com/davenkarim/ADAKantin)**  
+  Offline-first SwiftUI canteen app with Siri Shortcuts, helping users decide meals without friction.
+
+- ✨ **[Female Daily x Jakarta X Beauty (JxB) Navigation](https://github.com/handoyonathan/FemaleDaily)**  
+  iOS solution leveraging MapKit, SwiftData, and CloudKit to improve large-scale event navigation and flash sale experience for JxB 2025.
+
+
+👉 Full case studies & visual walkthroughs available on my portfolio:  
+🔗 **https://davenkarim.framer.website/**
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davenkarim&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -47,10 +98,6 @@ Here are some highlights from my journey:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davenkarim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=davenkarim&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -71,11 +118,12 @@ Here are some highlights from my journey:
 
 ---
 
-## 🌟 Why Work With Me?
+## 🌟 How I Add Value
 
-- **Versatile Background**: Experienced in both mobile development and data analytics
-- **Proven Track Record**: Built apps used in real-world contexts
-- **User-Centric Approach**: Always designing with usability, scalability, and impact in mind
-- **Collaborative Spirit**: Thrives in team environments like Apple Developer Academy, but also self-driven in independent projects
+- **User-First Mindset**: Decisions grounded in real user needs and behavior
+- **Research-Oriented**: Comfortable validating ideas with data and structured analysis
+- **Cross-Disciplinary**: Able to bridge product, tech, and business conversations
+- **Reflective & Intentional**: Always questioning *why* before *how*
 
-Let's collaborate and make tech that matters! 🚀
+If you’re building products that aim to matter —  
+I’d love to be part of the conversation.
